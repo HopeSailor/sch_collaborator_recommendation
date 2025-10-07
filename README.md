@@ -1,7 +1,7 @@
 This is the official codebase for our paper:
 
 > **Scientific Collaborator Recommendation via Hypergraph Embedding**  
-> Xiaochen Wang, Wensheng Huang, Butian Zhao, and Shijuan Li (The paper is currently under submission, a full version of the codebase will be released upon acceptance)
+> Xiaochen Wang, Wensheng Huang, Butian Zhao, and Shijuan Li. *Information Processing & Management*, 2026, 63(2): 104423.
 
 ## Introduction
 
