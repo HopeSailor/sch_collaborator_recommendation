@@ -61,10 +61,3 @@ python evaluate.py --model saved_model.pt --topk 10 20 50 --cold-start
 
 Cold-start scholars have fewer than five distinct collaborators in the
 training set. Data, checkpoints, and generated outputs are excluded from Git.
-
-## Reproducibility
-
-The manuscript does not uniquely specify author resolution, split generation,
-geocoding, or representative-node selection in the sparse HyperGCN
-approximation. These choices are deterministic in this implementation and are
-defined in `data/build_sch.py` and `configs/sch.yaml`.
