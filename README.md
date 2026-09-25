@@ -1,7 +1,6 @@
 This repository contains the official implementation of our paper. If you find this work useful for your research, please cite:
 
-> **Scientific collaborator recommendation via hypergraph embedding**  
-> Xiaochen Wang, Wensheng Huang, Butian Zhao, and Shijuan Li<sup>\*</sup>. [Scientific collaborator recommendation via hypergraph embedding](https://doi.org/10.1016/j.ipm.2025.104423). *Information Processing & Management*, 2026, 63(2): 104423.
+> Xiaochen Wang, Wensheng Huang, Butian Zhao, and Shijuan Li<sup>\*</sup>. [**Scientific collaborator recommendation via hypergraph embedding**](https://doi.org/10.1016/j.ipm.2025.104423). *Information Processing & Management*, 2026, 63(2): 104423.
 
 ## Introduction
 
