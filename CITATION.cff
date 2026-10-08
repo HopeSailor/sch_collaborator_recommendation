@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: 'Please cite the accompanying publication.'
+type: article
+title: 'Scientific collaborator recommendation via hypergraph embedding'
+authors:
+  - family-names: Wang
+    given-names: Xiaochen
+  - family-names: Huang
+    given-names: Wensheng
+  - family-names: Zhao
+    given-names: Butian
+  - family-names: Li
+    given-names: Shijuan
+doi: 10.1016/j.ipm.2025.104423
+journal: Information Processing & Management
+year: 2026
