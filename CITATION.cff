@@ -1,16 +1,28 @@
 cff-version: 1.2.0
-message: 'Please cite the accompanying publication.'
-type: article
-title: 'Scientific collaborator recommendation via hypergraph embedding'
+message: "Please cite the associated paper when using this repository."
+type: software
+title: "sch_collaborator_recommendation"
 authors:
-  - family-names: Wang
-    given-names: Xiaochen
-  - family-names: Huang
-    given-names: Wensheng
-  - family-names: Zhao
-    given-names: Butian
-  - family-names: Li
-    given-names: Shijuan
-doi: 10.1016/j.ipm.2025.104423
-journal: Information Processing & Management
-year: 2026
+  - given-names: Xiaochen
+    family-names: Wang
+  - given-names: Wensheng
+    family-names: Huang
+  - given-names: Butian
+    family-names: Zhao
+  - given-names: Shijuan
+    family-names: Li
+preferred-citation:
+  type: article
+  title: "Scientific collaborator recommendation via hypergraph embedding"
+  authors:
+    - given-names: Xiaochen
+      family-names: Wang
+    - given-names: Wensheng
+      family-names: Huang
+    - given-names: Butian
+      family-names: Zhao
+    - given-names: Shijuan
+      family-names: Li
+  doi: 10.1016/j.ipm.2025.104423
+  journal: "Information Processing & Management"
+  year: 2026
