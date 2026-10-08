@@ -19,6 +19,7 @@ Place the required source files under `data/raw/`, update their paths in `config
 
 ```bash
 python data/build_sch.py --config configs/sch.yaml
+```
 
 ## Project Structure
 
@@ -87,3 +88,7 @@ early stopping with a patience of 10 epochs.
 Cold-start scholars are defined as those with fewer than five distinct
 collaborators in the training set. Random seeds and data construction settings
 are specified in `configs/sch.yaml`.
+
+## Citation and data availability
+
+Please cite the [peer-reviewed publication](https://doi.org/10.1016/j.ipm.2025.104423); structured citation metadata are in [CITATION.cff](CITATION.cff). The AMiner-derived inputs are **not** bundled; obtain the source datasets through their providers. Training and evaluation have not been re-run as part of this documentation update.
